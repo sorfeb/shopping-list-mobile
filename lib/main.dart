@@ -1,4 +1,4 @@
-import 'package:shopping_list/menu.dart';
+import 'package:shopping_list/screens/menu.dart';
 import 'package:flutter/material.dart';
 
 void main() {
